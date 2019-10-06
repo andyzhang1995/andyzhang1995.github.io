@@ -1,2 +1,3 @@
 name: Jingwei Zhang, Horrible EECS at Cal
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
